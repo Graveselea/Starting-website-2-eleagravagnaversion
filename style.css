@@ -654,7 +654,7 @@ label,
 .btn,
 a,
 q {
-    font-family: "helvetica";
+    font-family: "helvetica",Arial, Helvetica, sans-serif;
     font-weight: 400;
     color: #040404!important;
 }
@@ -699,7 +699,7 @@ q {
 
 .h1 {
     font-size: 20px;
-    font-family: "Open Sans";
+    font-family: "Open Sans",Arial, Helvetica, sans-serif;
 }
 
 .cta-hero {
@@ -751,6 +751,8 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: 300px;
+    height: auto;
 }
 
 .portfolio-row {
@@ -901,11 +903,7 @@ footer h2 {
     font-weight: bold;
 }
 
-.col-sm-6 img {
-    width: 300px;
-    height: auto;
-   
-}
+
 
 .descriptionsite {
     margin-top: 0;
