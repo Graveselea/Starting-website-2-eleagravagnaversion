@@ -884,7 +884,7 @@ footer a,
 footer p,
 footer h2 {
     color: white !important;       
-    padding: 0 20px 0 20px;
+    padding: 0 48px 0 48px;
     font-size: 20px;    
     margin-right: auto;
     margin-left: auto;
@@ -892,8 +892,8 @@ footer h2 {
 }
 
 footer .col-sm-4 {
-    padding: 0; 
-
+    padding: 0px; 
+    margin: 8px;
 }
 
 a {
